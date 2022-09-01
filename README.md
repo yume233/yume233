@@ -3,6 +3,7 @@
 </a>
 
 # ✨ HI,你好,我是Umia
+
 * 📘我正在学习JavaScript
 
 * 🔷未来想要学习TypeScript
@@ -13,4 +14,4 @@
 
 * ❤️我师傅是[@LF112](https://github.com/LF112)有什么问题请找他在线PVP
 
-<img style="width:400px;margin:30px 0 0 -60px;" align="left" src="https://s2.loli.net/2022/09/02/PgWza1ZNHVUBpAo.jpg"></img>
+<img style="width:400px;" align="left" src="https://s2.loli.net/2022/09/02/PgWza1ZNHVUBpAo.jpg"></img>
