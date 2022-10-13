@@ -1,7 +1,7 @@
-<p align="right">
+<a align="right">
     <img style="margin-top:60px" src="https://github-readme-stats.vercel.app/api?username=yume233">
     <img style="margin-top:60px" src="https://count.getloli.com/get/@yume233?theme=gelbooru">
-</p>
+</a>
 # ✨ HI,你好,我是Umia
 
 * 📘我正在学习JavaScript
