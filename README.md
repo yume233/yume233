@@ -1,6 +1,6 @@
-<table border="0">
+<table>
     <tr>
-        <td style="width: 50vw;">
+        <td style="width: 50vw;border: 0;">
             <h1>✨ HI,你好,我是Umia</h1>
             <ul>
                 <li>
@@ -21,7 +21,7 @@
             </ul>
             <p><img src="https://s2.loli.net/2022/09/02/PgWza1ZNHVUBpAo.jpg" align="left" style="width:400px;"></p>
         </td>
-        <td >
+        <td style="border: 0;">
             <img style="margin-top:60px" src="https://github-readme-stats.vercel.app/api?username=yume233">
             <p></p>
             <img style="margin-top:60px" src="https://count.getloli.com/get/@yume233?theme=gelbooru">
