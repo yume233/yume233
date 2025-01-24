@@ -4,12 +4,6 @@
             <h1>✨ HI,你好,我是Umia</h1>
             <ul>
                 <li>
-                    <p>📘我正在学习JavaScript</p>
-                </li>
-                <li>
-                    <p>🔷未来想要学习TypeScript</p>
-                </li>
-                <li>
                     <p>💐呐, 要看吗? (掀起)</p>
                 </li>
                 <li>
